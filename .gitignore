@@ -1,0 +1,8 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+backend/.env
+backend/.env.*
+!backend/.env.example
